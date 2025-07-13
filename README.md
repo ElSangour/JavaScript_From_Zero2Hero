@@ -76,7 +76,7 @@ Start from the first section and work your way through. Read the explanations fo
 
 ---
 
-### 🤝 Contribution
+### Contribution
 
 Your input is valuable! If you find any errors, have suggestions for improvements, or wish to contribute new topics or exercises, please:
 
@@ -87,17 +87,17 @@ Your input is valuable! If you find any errors, have suggestions for improvement
 5.  Push to the branch (`git push origin feature/your-awesome-feature`).
 6.  Open a Pull Request.
 
-Let's build this resource together! 💖
+Let's build this resource together! 
 
 ---
 
-### 📄 License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-### 📞 Contact
+### Contact
 
 Feel free to connect with me for any questions, feedback, or discussions:
 
